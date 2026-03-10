@@ -1,5 +1,21 @@
- Olá, eu sou o Gabriel Sulacov
-- Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS
-- Preparando-se para o mercado de tecnologia
-- Contato: gabsulacov@gmail.com
+# 👋 Olá! Eu sou o Gabriel
+
+🎓 Estudante de Mecânica Industrial no IFSP  
+💻 Interessado em programação, tecnologia e hardware  
+🔧 Gosto de aprender como as coisas funcionam e criar soluções práticas  
+
+## 🚀 Tecnologias que estou aprendendo
+- Python
+- Git & GitHub
+- Lógica de programação
+
+## 🧠 Atualmente estudando
+- Automação
+- Programação
+- Eletrônica básica
+
+## 📫 Contato
+- GitHub: https://github.com/seuusuario
+
+---
+⭐ Sempre buscando aprender algo novo!
