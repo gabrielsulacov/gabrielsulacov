@@ -15,7 +15,7 @@
 - Eletrônica básica
 
 ## 📫 Contato
-- GitHub: https://github.com/seuusuario
+- e-mail: gabsulacov@gmail.com
 
 ---
 ⭐ Sempre buscando aprender algo novo!
